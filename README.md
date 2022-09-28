@@ -77,27 +77,27 @@ Algoritma Latihan3modul4
 
 KAMUS:
 
-   number1,number2,number3,status: integer
+    number1,number2,number3,status: integer
 
 ALGO :
 
-   number1 <- 10
+        number1 <- 10
 
-   number2 <- 23
+        number2 <- 23
 
-   number3 <- 5
+        number3 <- 5
 
-   status <- (number1 >=number2 )?number1:number2
+        status <- (number1 >=number2 )?number1:number2
 
-   status <- (number3 >=status )?number3:status
+        status <- (number3 >=status )?number3:status
 
-   output(number1)
+        output(number1)
 
-   output(number2)
+        output(number2)
 
-   output(number3)
+        output(number3)
 
-   output(status)
+        output(status)
 
 END ALGO
 
@@ -113,21 +113,21 @@ Algoritma Latihan4Modul4
 
 KAMUS :
 
-   a,b,c,d,e,f,g,h,i,r,s,t,u,v,w,x,y, no1, no2, no3 : integer
+       a,b,c,d,e,f,g,h,i,r,s,t,u,v,w,x,y, no1, no2, no3 : integer
 
-ALGOR :
+ALGO :
 
-   no1 <- b)^c^d-e+f-(g*h)+i
+        no1 <- b)^c^d-e+f-(g*h)+i
 
-   no2 <- (3*10)*2)/15)-2+4^2^2
+        no2 <- (3*10)*2)/15)-2+4^2^2
 
-   no3 <- r^((s*t)/u)-v+w^x-y++
+        no3 <- r^((s*t)/u)-v+w^x-y++
 
-   output(no1)
+        output(no1)
 
-   output(no2)
+        output(no2)
 
-   output(no3)
+        output(no3)
 
 END ALGO
 
