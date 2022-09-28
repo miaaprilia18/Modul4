@@ -44,6 +44,8 @@ Tipe data integral yaitu byte, short, int dan long. tipe data yang terintegrasi 
 
 # Program Latihan2Modul4
 
+https://github.com/miaaprilia18/PBO-Teori-Modul4/blob/main/Latihan2Modul4.java
+
 Pada program ini kita mengaplikasikan bagaimana cara menggunakan operator didalam pemograman. 
 algoritma Latihan2Modul4
 
@@ -71,6 +73,9 @@ operator yang digunakan dalam program ini adalah dasar operator arithmatika yang
 
 
 # Latihan3modul4
+
+https://github.com/miaaprilia18/PBO-Teori-Modul4/blob/main/Latihan3Modul4.java
+
 pada program ini masih menrealisasikan bagaimana penggunaan operator di dalam.
 
 Algoritma Latihan3modul4
@@ -106,6 +111,8 @@ Operator Relasi membandingkan dua nilai dan menentukan keterhubungan iantara nil
 Operator Kondisi adalah jenis operator yang identik dengan simbol tanda tanya (?) dan titik dua (:). Dimana tujuan dari operator ini untuk mengassign suatu nilai ke dalam variabel berdasarkan suatu kondisi true atau false.
 
 # Latihan4Modul4
+
+https://github.com/miaaprilia18/PBO-Teori-Modul4/blob/main/Latihan4Modul4.java
 
 pada program ini kita menggunakan konsep operator aritmatika dan operator predence di dalam prosesnya.
 
